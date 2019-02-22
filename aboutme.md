@@ -75,7 +75,7 @@ img {vertical-align: middle;}
 </head>
 <body>
 
-<h2>What all am I upto recently?</h2>
+<h2 align="center">What all am I upto recently?</h2>
 
 <div class="slideshow-container">
 
@@ -144,7 +144,7 @@ function showSlides() {
   }
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
-  setTimeout(showSlides, 4000); // Change image every 2 seconds
+  setTimeout(showSlides, 4000); // Change image every 4 seconds
 }
 </script>
 
