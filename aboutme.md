@@ -80,45 +80,33 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 7</div>
+  <div class="numbertext">1 / 5</div>
   <img src="1-min.png" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 7</div>
-  <img src="2-min.png" style="width:100%">
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">3 / 7</div>
+  <div class="numbertext">2 / 5</div>
   <img src="3-min.png" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 7</div>
-  <img src="4-min.png" style="width:100%">
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">5 / 7</div>
+  <div class="numbertext">3 / 5</div>
   <img src="5-min.png" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">6 / 7</div>
+  <div class="numbertext">4 / 5</div>
   <img src="6-min.png" style="width:100%">
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">7 / 7</div>
+  <div class="numbertext">5 / 5</div>
   <img src="7-min.png" style="width:100%">
 </div>
 </div>
 <br>
 
 <div style="text-align:center">
-  <span class="dot"></span> 
-  <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
