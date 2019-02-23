@@ -1,5 +1,17 @@
 ---
 ---
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-135005199-1"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-135005199-1');
+	</script>
+</head>
+
 <h2 align="center">What all am I upto recently?</h2>
 ![](1-min.png)
 ![](2-min.png)
