@@ -12,7 +12,7 @@
 	</script>
 </head>
 
-<h2 align="center">What all am I upto recently?</h2>
+<h2 align="center">What all am I upto?</h2>
 ![](1-min.png)
 ![](2-min.png)
 ![](3-min.png)
