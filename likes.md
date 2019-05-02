@@ -13,9 +13,12 @@
 </head>
 
 <h2 align="center">What all am I upto?</h2>
-![](1-min.png)
-![](2-min.png)
-![](3-min.png)
-![](4-min.png)
-![](5-min.png)
- 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](1-min.png)  |  ![](2-min.png)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](3-min.png)  |  ![](4-min.png)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](5-min.png)  |  ![](1-min.png)
