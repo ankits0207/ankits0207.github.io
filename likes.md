@@ -13,6 +13,6 @@
 </head>
 
 <h2 align="center">What all am I upto?</h2>
-![alt-text-1](1-min.png "title-1") ![alt-text-2](2-min.png "title-2")
-![alt-text-1](3-min.png "title-1") ![alt-text-2](4-min.png "title-2")
-![alt-text-1](5-min.png "title-1") ![alt-text-2](1-min.png "title-2")
+![](1-min.png) ![](2-min.png)
+![](3-min.png) ![](4-min.png)
+![](5-min.png) ![](1-min.png)
