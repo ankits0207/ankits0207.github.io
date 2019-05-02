@@ -12,7 +12,7 @@
 	</script>
 </head>
 
-<h2 align="center">What all am I upto?</h2>
+<h2 align="center">What all am I upto ? </h2>
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
 ![](1-min.png)  |  ![](2-min.png)
