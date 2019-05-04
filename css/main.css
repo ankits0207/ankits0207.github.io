@@ -839,19 +839,6 @@ img {
   }
 }
 
-html, body {
-  height: 100%;
-  overflow: hidden;
-}
-
-body {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: linear-gradient(to bottom, #74ABE2, #5563DE);
-  font-family: 'Ropa Sans', sans-serif;
-}
-
 /* Fix table border github gist snippets */
 
 .gist, .gist-file table tr {
