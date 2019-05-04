@@ -2,33 +2,31 @@
 layout: default
 title: Away from work
 ---
-<body>
-<div class="text-center">
-    <img class="mySlides" src="1-min.png">
-    <img class="mySlides" src="2-min.png">
-    <img class="mySlides" src="3-min.png">
-    <img class="mySlides" src="4-min.png">
-    <button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
-    <button class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>
+
+<div class="slider">
+  
+  <a href="#slide-1">1</a>
+  <a href="#slide-2">2</a>
+  <a href="#slide-3">3</a>
+  <a href="#slide-4">4</a>
+  <a href="#slide-5">5</a>
+
+  <div class="slides">
+    <div id="slide-1">
+      1
+    </div>
+    <div id="slide-2">
+      2
+    </div>
+    <div id="slide-3">
+      3
+    </div>
+    <div id="slide-4">
+      4
+    </div>
+    <div id="slide-5">
+      5
+    </div>
+  </div>
 </div>
-</body>
 
-<script>
-var slideIndex = 1;
-showDivs(slideIndex);
-
-function plusDivs(n) {
-  showDivs(slideIndex += n);
-}
-
-function showDivs(n) {
-  var i;
-  var x = document.getElementsByClassName("mySlides");
-  if (n > x.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = x.length} ;
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";
-  }
-  x[slideIndex-1].style.display = "block";
-}
-</script>
