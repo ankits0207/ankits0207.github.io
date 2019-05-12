@@ -144,13 +144,12 @@ function carousel() {
   var i;
   var x = document.getElementsByClassName("mySlides");
   for (i = 0; i < x.length; i++) {
-    x[i].style.display = "block";
+    x[i].style.display = "none";
   }
   slideIndex++;
   if (slideIndex > x.length) {slideIndex = 1}
-  //x[slideIndex-1].style.display = "block";
-  //x[slideIndex-1].style.align = "middle";
-  setTimeout(carousel, 4500); // Change image every 5 seconds
+  x[slideIndex-1].style.display = "inline";
+  setTimeout(carousel, 4500); // Change image every 4.5 seconds
 }
 					      
 document.addEventListener('DOMContentLoaded', main.init);
