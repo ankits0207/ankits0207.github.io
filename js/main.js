@@ -149,7 +149,8 @@ function carousel() {
   slideIndex++;
   if (slideIndex > x.length) {slideIndex = 1}
   x[slideIndex-1].style.display = "block";
-  setTimeout(carousel, 5000); // Change image every 5 seconds
+  x[slideIndex-1].style.align = "middle";
+  setTimeout(carousel, 4500); // Change image every 5 seconds
 }
 					      
 document.addEventListener('DOMContentLoaded', main.init);
