@@ -801,7 +801,13 @@ td.gutter {
   color: white; /* White text color */
 }
 
-.html {width: 90%; background-color: #4CAF50;} /* Green */
-.css {width: 80%; background-color: #2196F3;} /* Blue */
-.js {width: 65%; background-color: #f44336;} /* Red */
-.php {width: 60%; background-color: #808080;} /* Dark Grey */
+.ml {width: 55%; background-color: #2196F3;} /* Green */
+.dl {width: 55%; background-color: #2196F3;} /* Blue */
+.algo {width: 52.5%; background-color: #2196F3;} /* Red */
+.mel {width: 52.5%; background-color: #2196F3;} /* Dark Grey */
+.grmod {width: 52%; background-color: #2196F3;} /* Dark Grey */
+.parcom {width: 50%; background-color: #2196F3;} /* Dark Grey */
+.stsim {width: 50%; background-color: #2196F3;} /* Dark Grey */
+.prob {width: 50%; background-color: #2196F3;} /* Dark Grey */
+.matmol {width: 47.5%; background-color: #2196F3;} /* Dark Grey */
+
