@@ -794,7 +794,7 @@ td.gutter {
 
 /* Container for skill bars */
 .container {
-  width: 50%; /* Full width */
+  width: 100%; /* Full width */
   background-color: #FFFFFF; /* White background */
 }
 
