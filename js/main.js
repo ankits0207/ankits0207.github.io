@@ -153,4 +153,3 @@ function carousel() {
 }
 					      
 document.addEventListener('DOMContentLoaded', main.init);
-particlesJS("particles-js",particlesjs-config.json);
