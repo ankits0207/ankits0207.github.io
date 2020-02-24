@@ -42,7 +42,7 @@ avatar: "/img/avatar-icon.png"
 navbar-col: "#4f4f4f"
 navbar-text-col: "#ffffff"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+#page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
@@ -54,7 +54,7 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/Gokarna.jpeg"
 # footer-img: "/img/bgimage.png"
-
+page-img: "bg.svg"
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
