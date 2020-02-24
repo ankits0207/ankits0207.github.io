@@ -796,8 +796,8 @@ td.gutter {
 
 .skills {
   text-align: right; /* Right-align text */
-  padding-top: 10px; /* Add top padding */
-  padding-bottom: 10px; /* Add bottom padding */
+  padding-top: 5px; /* Add top padding */
+  padding-bottom: 5px; /* Add bottom padding */
   color: white; /* White text color */
 }
 
@@ -805,9 +805,9 @@ td.gutter {
 .dl {width: 55%; background-color: #2196F3;} /* Blue */
 .algo {width: 52.5%; background-color: #2196F3;} /* Red */
 .mel {width: 52.5%; background-color: #2196F3;} /* Dark Grey */
-.grmod {width: 52%; background-color: #2196F3;} /* Dark Grey */
-.parcom {width: 50%; background-color: #2196F3;} /* Dark Grey */
-.stsim {width: 50%; background-color: #2196F3;} /* Dark Grey */
-.prob {width: 50%; background-color: #2196F3;} /* Dark Grey */
-.matmol {width: 50%; background-color: #2196F3;} /* Dark Grey */
+.grmod {width: 50%; background-color: #2196F3;} /* Dark Grey */
+.parcom {width: 45%; background-color: #2196F3;} /* Dark Grey */
+.stsim {width: 45%; background-color: #2196F3;} /* Dark Grey */
+.prob {width: 45%; background-color: #2196F3;} /* Dark Grey */
+.matmol {width: 45%; background-color: #2196F3;} /* Dark Grey */
 
