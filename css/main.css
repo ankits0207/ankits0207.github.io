@@ -796,8 +796,8 @@ td.gutter {
 
 .skills {
   text-align: right; /* Right-align text */
-  padding-top: 2px; /* Add top padding */
-  padding-bottom: 2px; /* Add bottom padding */
+  padding-top: 1px; /* Add top padding */
+  padding-bottom: 1px; /* Add bottom padding */
   color: white; /* White text color */
 }
 
