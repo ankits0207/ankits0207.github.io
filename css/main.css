@@ -867,5 +867,44 @@ $bg-width: 50px;
 $bg-height: 50px;
 
 /* Animations */
+@keyframes animatedBackground {
+			from { background-position: 0 0; }
+			to { background-position: 100% 0; }
+		}
+		@-webkit-keyframes animatedBackground {
+			from { background-position: 0 0; }
+			to { background-position: 100% 0; }
+		}
+		@-ms-keyframes animatedBackground {
+			from { background-position: 0 0; }
+			to { background-position: 100% 0; }
+		}
+		@-moz-keyframes animatedBackground {
+			from { background-position: 0 0; }
+			to { background-position: 100% 0; }
+		}
 
+		#animate-area	{ 
+			width: 560px; 
+			height: 400px; 
+			background-image: url(http://davidwalsh.name/demo/bg-clouds.png);
+			background-position: 0px 0px;
+			background-repeat: repeat-x;
+
+			animation: animatedBackground 40s linear infinite;
+			-ms-animation: animatedBackground 40s linear infinite;
+			-moz-animation: animatedBackground 40s linear infinite;
+			-webkit-animation: animatedBackground 40s linear infinite;
+		}
+h1 {
+  font-family: fantasy;
+  height: 29%;
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: 400;
+  text-shadow: 0px 1px 9px #000;
+  text-align: center;
+  padding-top: 76px;
+  background: rgba(0, 0, 0, 0.4);
+}
 
