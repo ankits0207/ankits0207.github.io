@@ -793,10 +793,6 @@ td.gutter {
 /** {box-sizing:border-box}*/
 
 /* Container for skill bars */
-.container {
-  width: 100%; /* Full width */
-  background-color: #FFFFFF; /* White background */
-}
 
 .skills {
   text-align: right; /* Right-align text */
