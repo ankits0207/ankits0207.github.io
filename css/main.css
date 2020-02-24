@@ -811,3 +811,6 @@ td.gutter {
 .prob {width: 45%; background-color: #2196F3;} /* Dark Grey */
 .matmol {width: 45%; background-color: #2196F3;} /* Dark Grey */
 
+.checked {
+  color: orange;
+}
