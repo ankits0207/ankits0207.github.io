@@ -790,12 +790,12 @@ td.gutter {
 
 /*Skills*/
 /* Make sure that padding behaves as expected */
-* {box-sizing:border-box}
+/** {box-sizing:border-box}*/
 
 /* Container for skill bars */
 .container {
-  width: 100%; /* Full width */
-  background-color: #ddd; /* Grey background */
+  width: 50%; /* Full width */
+  background-color: #000000; /* White background */
 }
 
 .skills {
