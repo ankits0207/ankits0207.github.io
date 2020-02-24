@@ -12,7 +12,6 @@ body {
   color: #404040;
   position: relative;
   background-color: {{ site.page-col }};
-  {% if site.page-img %}
   background-image: url("data:image/svg+xml;utf8,<svg version="1.1" id="home-anim" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1820 1080" style="enable-background:new 0 0 1820 1080;" xml:space="preserve">
 
@@ -124,7 +123,6 @@ body {
 </svg>
 ");
   background-attachment: fixed;
-  {% endif %}
 }
 p {
   line-height: 1.5;
