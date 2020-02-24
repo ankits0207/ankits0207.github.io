@@ -874,9 +874,8 @@ td.gutter {
 
 
 div.transbox {
-  margin: 30px;
   background-color: #ffffff;
-  border: 1px solid black;
-  opacity: 0.3;
+  border: 2px solid black;
+  opacity: 0.8;
 }
 
