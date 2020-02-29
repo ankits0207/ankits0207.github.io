@@ -908,14 +908,6 @@ $tab-letters: 16 23 12; //number of characters in each paragraph
 $slider-font-size: 3rem;
 $background: #ffffff;
 
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  background-color: $background;
-}
-
 @keyframes cursor {
   from, to { border-color: transparent; }
   50% { border-color: black; }
