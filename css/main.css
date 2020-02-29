@@ -904,20 +904,6 @@ div.skill-tag {
 @import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,900);
 
-body { background-color: #ff7800; }
-
-html, body {
-	width: 100%;
-	height: 100%;
-	margin: 0;
-}
-
-body {
-	font-family:'Lato', sans-serif !important;
-	font-size: 13pt !important;
-	font-weight: 300 !important;
-}
-
 .container-fluid {
     padding-right: 0px !important;
     padding-left: 0px !important;
@@ -945,23 +931,17 @@ body {
 .iamCol {
     text-align: right;
 	float: left;
-	font-weight: 300;
-	font-size:30pt;
 }
 .iamCol p:nth-child(2) { margin-top: -20pt !important; }
 .slideCol {
 	text-align: left;
-    overflow: hidden;
-	font-weight: 900;
-	font-size:70pt;
+        overflow: hidden;
 	display: block;
 	white-space: nowrap;
 }
 .slideCol p { margin: 0px !important; }
 
 .scroller {
-   height: 70pt;
-   line-height: 70pt;
    overflow: hidden;
 }
 .scroller .inner { animation: 10s normal infinite running scroll; }
