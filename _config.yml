@@ -23,7 +23,7 @@ description: Researcher
 # List of links in the navigation bar
 navbar-links:
   My home: "https://ankits0207.github.io"
-  Experience: "experience.html"
+  Experience: "exp.html"
   Away from work: "afw.html"
   CV (PDF): "https://drive.google.com/file/d/1fhfB3DBKdqJiC0tXgKTYlXa_RCXpzGIJ/view?usp=sharing"
 
