@@ -915,6 +915,12 @@ div.skill-tag {
   padding: 10px 10px;
 }
 
+.column {
+  float: none;
+  width: 30%;
+  padding: 10px 10px;
+}
+
 /* Remove extra left and right margins, due to padding in columns */
 .row {margin: 0 -5px;}
 
