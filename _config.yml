@@ -22,12 +22,11 @@ description: Researcher
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "https://ankits0207.github.io"
   Experience: "exp.html"
   Education: "edu.html"
   Publications & Patents: "pp.html"
   Projects: "proj.html"
-  Skill \nset: "skillset.html"
+  Skill set: "skillset.html"
   Away from work: "afw.html"
   CV (PDF): "https://drive.google.com/file/d/1fhfB3DBKdqJiC0tXgKTYlXa_RCXpzGIJ/view?usp=sharing"
 
