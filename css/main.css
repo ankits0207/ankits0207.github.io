@@ -879,3 +879,22 @@ div.transbox {
   opacity: 0.8;
 }
 
+div.skills-container {
+  box-shadow: 0 0 0 1px rgba(0,0,0,.1), 0 2px 3px rgba(0,0,0,.2);
+  max-width: 942px;
+  background: white;
+  border-radius: 2px;
+  padding: 20px 24px;
+  text-align: center;
+}
+
+div.skill-tag {
+  color: black;
+  font-size: 18px;
+  font-family: -apple-system,system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  display: inline-block;
+  background: #e6e9ec;
+  padding: 6px 12px;
+  margin: 8px 6px;
+  border-radius: 15px;
+}
