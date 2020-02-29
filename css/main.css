@@ -883,6 +883,7 @@ div.skills-container {
   box-shadow: 0 0 0 1px rgba(0,0,0,.1), 0 2px 3px rgba(0,0,0,.2);
   max-width: 942px;
   background: white;
+  opacity: 0.7;
   border-radius: 2px;
   padding: 20px 24px;
   text-align: center;
