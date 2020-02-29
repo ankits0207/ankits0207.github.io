@@ -905,7 +905,7 @@ div.skill-tag {
 
 /* Float four columns side by side */
 .column {
-  float: center;
+  float: left;
   width: 30%;
   padding: 0 10px;
 }
